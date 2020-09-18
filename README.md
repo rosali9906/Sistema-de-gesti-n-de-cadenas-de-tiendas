@@ -1,1 +1,1 @@
-# Sistema-de-gesti-n-de-cadenas-de-tiendas
+# Sistema-de-gestion-de-cadenas-de-tiendas
